@@ -1,0 +1,11 @@
+flask
+openai
+python-dotenv
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+nltk
+joblib
+kagglehub
